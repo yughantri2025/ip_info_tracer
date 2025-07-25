@@ -1,4 +1,4 @@
-vim
+*vim
 vim Definition in Linux
 vim (Vi IMproved) is a highly configurable, powerful text editor used in Linux and other UNIX-like systems. It is an enhanced version of the older vi editor, with additional features such as syntax highlighting, multi-level undo, plugins, and more.
 It is commonly used for programming, scripting, configuration file editing, and general-purpose text editing.
